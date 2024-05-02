@@ -2,5 +2,5 @@
 ---
 
 Decoradores de python.
-1. Probar velocidad y ventajast
+1. Probar velocidad y ventajas.
 
